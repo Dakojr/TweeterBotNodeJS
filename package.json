@@ -1,0 +1,23 @@
+{
+  "name": "tweeterbotnodejs",
+  "version": "1.0.0",
+  "description": "Bot Twit",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dakojr/TweeterBotNodeJS.git"
+  },
+  "author": "Xavier Frinot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dakojr/TweeterBotNodeJS/issues"
+  },
+  "homepage": "https://github.com/Dakojr/TweeterBotNodeJS#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
